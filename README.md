@@ -4,6 +4,9 @@ A ruby script for generating an audio file from textfile by using say command
 # How to use
 ruby kaiwa.rb sample.txt
 
+# Prerequisite
+brew install sox
+
 # Conversation.file
 like this.
 
